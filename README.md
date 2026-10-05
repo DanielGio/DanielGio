@@ -13,8 +13,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Sou um **entusiasta de tecnologia**: gosto de entender como as coisas funcionam e de construir as minhas.
-- 🌱 Atualmente estudando e aprofundando **Python, Django e SQL**.
+- 🔭 Sou um **Amante de tecnologia**: gosto de entender como as coisas funcionam e de construir as minhas.
+- 🌱 Atualmente estudando e aprofundando **Python, Django, SQL e Bootstrap**.
 - 💡 Gosto de transformar ideias em projetos reais, do back-end ao front-end.
 - 🤝 Aberto a colaborações, trocas de conhecimento e novas oportunidades.
 
