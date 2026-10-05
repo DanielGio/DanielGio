@@ -44,7 +44,7 @@
 
 <p align="center">
 <!---  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DanielGio&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas" /> --->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGio&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
