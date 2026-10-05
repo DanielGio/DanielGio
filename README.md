@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o SEU NOME 👋</h1>
+<h1 align="center">Olá, eu sou o Daniel 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Entusiasta+de+tecnologia+%F0%9F%9A%80;Desenvolvedor+em+constru%C3%A7%C3%A3o+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
@@ -13,11 +13,10 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Sou um grande **entusiasta de tecnologia**: gosto de entender como as coisas funcionam e de construir as minhas.
+- 🔭 Sou um **entusiasta de tecnologia**: gosto de entender como as coisas funcionam e de construir as minhas.
 - 🌱 Atualmente estudando e aprofundando **Python, Django e SQL**.
 - 💡 Gosto de transformar ideias em projetos reais, do back-end ao front-end.
 - 🤝 Aberto a colaborações, trocas de conhecimento e novas oportunidades.
-- 📍 São Paulo, Brasil
 
 ---
 
@@ -26,7 +25,6 @@
 ### Back-end
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -42,16 +40,6 @@
 
 ---
 
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Nome do projeto 1](https://github.com/SEU-USUARIO/repo1) | Descreva em uma linha o que ele faz | Python, Django, SQL |
-| [Nome do projeto 2](https://github.com/SEU-USUARIO/repo2) | Descreva em uma linha o que ele faz | HTML, CSS, JS, Bootstrap |
-| [Nome do projeto 3](https://github.com/SEU-USUARIO/repo3) | Descreva em uma linha o que ele faz | Java |
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
@@ -64,8 +52,8 @@
 ## 📫 Vamos conversar?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daniel-giovane-9a54851b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:danielgioflorencio.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"Tecnologia é a ferramenta; curiosidade é o motor." ✨</i></p>
