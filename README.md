@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas&color=0e75b6&style=flat" alt="Visitas" />
-  <img src="https://img.shields.io/github/followers/SEU-USUARIO?label=Seguidores&style=flat&logo=github" alt="Seguidores" />
+  <img src="https://img.shields.io/github/followers/DanielGio?label=Seguidores&style=flat&logo=github" alt="Seguidores" />
 </p>
 
 ---
