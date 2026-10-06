@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Daniel 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Entusiasta+de+tecnologia+%F0%9F%9A%80;Desenvolvedor+em+constru%C3%A7%C3%A3o+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Amante+de+tecnologia+%F0%9F%9A%80;Desenvolvedor+em+constru%C3%A7%C3%A3o+%F0%9F%92%BB;Sempre+aprendendo+algo+novo+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 <p align="center">
